@@ -1,1 +1,1 @@
-# 4-input-stereo-mixer
+# 4入力ステレオミキサー
