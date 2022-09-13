@@ -58,13 +58,13 @@
 電子部品は番号通りに部品をはんだ付けするだけなのでビルドガイドを見なくても制作可能です。高さが低い順番にはんだ付けする様子を写真で紹介しています。  
 
 ![](img/IMG_8893.jpeg)  
-![](img/IMG_.jpeg)  
-![](img/IMG_.jpeg)  
+![](img/IMG_8897.jpeg)  
 Type-Cコネクタはマスキングテープなどで固定するとはんだ付けしやすいです。
-![](img/IMG_.jpeg)  
-![](img/IMG_.jpeg)  
-![](img/IMG_.jpeg)  
+![](img/IMG_8900.jpeg)  
+![](img/IMG_8905.jpeg)  
+![](img/IMG_8906.jpeg)  
 OS-CONには極性があります。
+![](img/IMG_8908.jpeg)  
 ![](img/IMG_.jpeg)  
 レギュレーターの足をラジオペンチ等で曲げます。
 ![](img/IMG_.jpeg)  
