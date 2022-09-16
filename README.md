@@ -112,11 +112,11 @@ USBを繋いでスイッチを押すとLEDが発光します。
 
 ### 自分で発注する
 #### PCB
-- kicadファイル
-- Elecrow向けガーバー
+- [kicadファイル](https://github.com/Taro-Hayashi/4-input-stereo-mixer/releases/download/pcbandacrylic/mixer_pcb.zip)
+- [Elecrow向けガーバー](https://github.com/Taro-Hayashi/4-input-stereo-mixer/releases/download/pcbandacrylic/mixer_80x70.zip)
 #### アクリル
-- kicadファイル
-- Elecrow向けzipファイル
+- [kicadファイル](https://github.com/Taro-Hayashi/4-input-stereo-mixer/releases/download/pcbandacrylic/mixer_acrylic.zip
+- [Elecrow向けzipファイル](https://github.com/Taro-Hayashi/4-input-stereo-mixer/releases/download/pcbandacrylic/mixer_3mm_183x169.zip)
 ## 販売ページ
 遊舎工房フリマで販売予定です。
 - [BOOTH](https://tarohayashi.booth.pm/items/4144494)  
