@@ -137,4 +137,4 @@ USBを繋いでスイッチを押すとLEDが発光します。
 - [kicadファイル](https://github.com/Taro-Hayashi/4-input-stereo-mixer/releases/download/pcbandacrylic/mixer_acrylic.zip)
 - [Elecrow向けzipファイル](https://github.com/Taro-Hayashi/4-input-stereo-mixer/releases/download/pcbandacrylic/mixer_3mm_183x169.zip)
 ## 販売ページ
-- [BOOTH](https://tarohayashi.booth.pm/items/4144494)  
+- [BOOTH](https://tarohayashi.booth.pm/items/4152188)  
